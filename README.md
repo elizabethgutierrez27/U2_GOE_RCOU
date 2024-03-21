@@ -15,3 +15,6 @@ El objetivo de este proyecto fue con la construccion de una pastora con material
 |--|--|--|--|
 |1|Arduino|2.2.1|Software Libre|
 |2|Thonny|3.1.1|Software Libre|
+
+## Prototipo
+![Pastora](https://github.com/elizabethgutierrez27/PersonajeNavidenio/assets/146129308/4d8189ef-38ac-4909-ab2b-d26341b13111)
